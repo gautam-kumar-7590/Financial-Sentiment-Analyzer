@@ -14,7 +14,7 @@
 
 ## 📸 App Preview
 
-![App Screenshot 1](Screenshot(2083).png)
+![App Screenshot 1](Screenshot (2083).png)
 ![App Screenshot 2](Screenshot(2084).png)
 
 ---
